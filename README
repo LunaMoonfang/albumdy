@@ -21,3 +21,5 @@ See a live demo at http://albumdy.com
 You will need the following gems installed:
 1. sudo gem install mime-types http://mime-types.rubyforge.org/
 2. sudo gem install right_aws (If you want to use Amazon S3 for storage, although paperclip + S3 is buggy at the moment)
+3. sudo gem install exifr
+3. sudo gem install GeoRuby
